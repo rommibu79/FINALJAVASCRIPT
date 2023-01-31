@@ -1,0 +1,45 @@
+[
+    {
+        "precio": 1010,
+        "id": 1,
+        "title": "Auriculares",
+        "thumbnailUrl": "https://www.evophone.com.ar/wp-content/uploads/2016/08/1659643657fe54d8daff50c5dc949382343f8fb5ed.jpg"
+    },
+    {
+        "precio": 350,
+        "id": 2,
+        "title": "Manoslibres",
+        "thumbnailUrl": "https://www.evophone.com.ar/wp-content/uploads/2016/08/165886598057c3eae8259bf9f5f78a41f2874fb26c.jpg"
+    },
+    {
+        "precio": 1280,
+        "id": 3,
+        "title": "Cargador",
+        "thumbnailUrl": "https://smithmayorista.com.ar/wp-content/uploads/2022/04/Diseno-sin-titulo-99.png"
+    },
+    {
+        "precio": 280,
+        "id": 4,
+        "title": "Cable de Carga",
+        "thumbnailUrl": "https://www.evophone.com.ar/wp-content/uploads/2016/08/1658941676cf427688f85286e42ecd116af16514e3.jpeg"
+    },
+    {
+        "precio": 2690,
+        "id": 5,
+        "title": "Auriculares Gamer",
+        "thumbnailUrl": "https://www.procel-accesorios.com.ar/wp-content/uploads/2017/06/161382329521f2619473c49448a9ab32ac7c4bd713.jpg"
+    },
+    {
+        "precio": 510,
+        "id": 6,
+        "title": "Bulbo led",
+        "thumbnailUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fa-static.mlcdn.com.br%2F800x560%2Flampada-de-led-globo-giratorio-de-luz-jogo-de-balada-led-full%2Frwvarejista%2Fledfullcolorlampada%2F9c2158d634e58e229a0702f33c55f930.jpg&imgrefurl=https%3A%2F%2Fwww.magazineluiza.com.br%2Flampada-de-led-globo-giratorio-de-luz-jogo-de-balada-led-full%2Fp%2Fchfe8adgb6%2Fcj%2Flald%2F&tbnid=eZVA9uCxwMUYFM&vet=10CBYQxiAoBWoXChMImMeZwLTg_AIVAAAAAB0AAAAAEA4..i&docid=P_BOi0RG-7TPiM&w=560&h=560&itg=1&q=bulbo%20led&ved=0CBYQxiAoBWoXChMImMeZwLTg_AIVAAAAAB0AAAAAEA4"
+    },
+    {
+        "precio": 650,
+        "id": 7,
+        "title": "Anillo soporte celular",
+        "img":"img/producto1.webp"
+    }
+
+]
